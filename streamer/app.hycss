@@ -1,0 +1,150 @@
+.bkcontainer {
+ min-height:1200px;
+ background-size:cover;
+ background-attachment: fixed;
+ 
+ 
+  align-items: center;
+}
+.container {
+
+  height: 1600px;
+  width: 750px;
+
+}
+.buttonOFF {
+    height: 100px;
+    width: 400px;
+    top: -60px;
+    background-color: rgb(253, 69, 69);
+    border-radius: 50px;
+    
+}
+.buttonON {
+    position: absolute;
+    height: 130px;
+    width: 130px;
+    bottom: 10px;
+    padding: 0px;
+    border-radius: 50%;
+    left: 310px;
+    
+}
+.section {
+    margin: 30px auto;
+}
+.information {
+  align-items: center;
+  width: 100%;
+  align-items: center;
+  
+}
+.recogtext {
+  position: relative;
+  top: -80px;
+  width: 100%;
+  height: 100px;
+  border:  5px rgb(255, 192, 203);
+  border-radius: 10px;
+  margin: 10px auto;
+  background: rgb(255, 255, 170);
+}
+.responstext {
+  position: relative;
+  top: 50px;
+  width: 100%;
+  height: 590px;
+  border:  5px rgb(255, 192, 203);
+  border-radius: 10px;
+
+  background: rgb(255, 255, 170);
+}
+.wordcontainer {
+   position: relative;
+  top: -80px;
+  width: 100%;
+  height: 100px;
+  border:  5px rgb(255, 192, 203);
+  border-radius: 10px;
+  margin: 10px auto;
+  background: rgb(255, 255, 170);
+
+  background: rgb(255, 255, 170);
+}
+.en{
+  position: absolute;
+  font-size: 25px;
+  font-weight: bold;
+  letterSpacing:5px;
+  bottom: 200px;
+  color: rgb(0, 0, 0);
+}
+.bullet_chat1{
+  position: relative;
+  font-size: 25px;
+  font-weight: bold;
+  letterSpacing:5px;
+  left:50px;
+  margin-top:80px;
+  color: rgb(0, 0, 0);
+  margin-right: 100px;
+}
+.voice1{
+  position: relative;
+  text-align: left;
+  font-size: 25px;
+  letterSpacing:5px;
+  margin-left: 200px;
+  top:50px;
+  color: rgb(0, 0, 0);
+  margin-right: 30px;
+  
+}
+.bullet_chat2{
+ position: relative;
+  font-size: 25px;
+  font-weight: bold;
+  letterSpacing:5px;
+  left:50px;
+  margin-top:30px;
+  color: rgb(0, 0, 0);
+  margin-right: 100px;
+  padding-bottom:200px;
+}
+.voice2{
+  position: relative;
+  font-size: 25px;
+  letterSpacing:5px;
+  margin-left: 200px;
+  margin-top:80px;
+  color: rgb(0, 0, 0);
+  margin-right: 30px;
+}
+.wordtext{
+  text-align: center;
+}
+.bk_init{
+  display: flex;
+  flex: 1;
+  background-image: url('../img/img1.jpg') no-repeat center;
+  align-items: center;
+}
+.listen-image{
+  position: absolute;
+  bottom: 10;
+  height:80px;
+  width:350px;
+  left: 210px;
+}
+.local-image{
+
+  height:150px;
+  width:150px;
+
+}
+.bk-image{
+
+  height:100%;
+  width:100%;
+
+}
